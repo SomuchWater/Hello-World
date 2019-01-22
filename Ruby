@@ -1,0 +1,2 @@
+#！／usr/bin/RUBY
+puts "Hello World!" ;
